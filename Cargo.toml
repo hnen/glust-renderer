@@ -1,0 +1,11 @@
+[package]
+name = "glust-renderer"
+version = "0.1.0"
+authors = ["user"]
+
+[dependencies]
+imagefmt = "4.0.0"
+glust = { git = "https://github.com/hnen/glust" }
+import-obj = { git = "http://github.com/hnen/import-obj" }
+
+
